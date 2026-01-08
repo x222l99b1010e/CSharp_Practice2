@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="00.000CalculateExpression/00.000CalculateExpression.csproj" />
+  <Project Path="00.000CoinChange/00.000CoinChange.csproj" />
+  <Project Path="00.000GeneQuery/00.000GeneQuery.csproj" />
+  <Project Path="00.000IsBalanced/00.000IsBalanced.csproj" />
+  <Project Path="00.000PrimeFactorization/00.000PrimeFactorization.csproj" />
+  <Project Path="00.000PrintHollowTriangle/00.000PrintHollowTriangle.csproj" />
+  <Project Path="00.000SearchDictionary/00.000SearchDictionary.csproj" />
+  <Project Path="ConsoleApp2/ConsoleApp2.csproj" />
+</Solution>
