@@ -10,4 +10,8 @@
   <Project Path="ConsoleApp2/ConsoleApp2.csproj" />
   <Project Path="ConsoleApp3/ConsoleApp3.csproj" Id="9d85f2f6-7baf-46af-b3aa-d8c3f6289b01" />
   <Project Path="ConsoleApp4/ConsoleApp4.csproj" Id="0b9aae92-29f5-44fb-b9d8-03ddb9623024" />
+  <Project Path="ConsoleApp5/ConsoleApp5.csproj" Id="458d30d2-0039-4ee7-9156-2cc373c12be9" />
+  <Project Path="ConsoleApp6/ConsoleApp6.csproj" Id="265638b1-70be-4658-9516-c8d4e490aa7c" />
+  <Project Path="ConsoleApp7/ConsoleApp7.csproj" Id="8777b446-6346-46e5-891c-fbb3c040fc0a" />
+  <Project Path="WindowsFormsApp1/WindowsFormsApp1.csproj" Id="36520cea-5654-4a4f-a8b8-f7c90a43bc12" />
 </Solution>
