@@ -11,6 +11,7 @@
   <Project Path="11ETL_Practice2/11ETL_Practice2.csproj" Id="223172c8-8472-41db-ac99-6393a2d7df40" />
   <Project Path="11GroupingAndStatistics/11GroupingAndStatistics.csproj" />
   <Project Path="11TimeRange/11TimeRange.csproj" Id="f8f99a70-891a-4d5f-971c-fd9a2cb63596" />
+  <Project Path="AK.Generic.Utility/AK.Generic.Utility.csproj" Id="520bb08f-094c-49f4-92f2-97391aa70b83" />
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="3f8ed64d-38a2-4ca2-8dce-37be9f1011da" />
   <Project Path="ConsoleApp2/ConsoleApp2.csproj" />
   <Project Path="ConsoleApp3/ConsoleApp3.csproj" Id="9d85f2f6-7baf-46af-b3aa-d8c3f6289b01" />
