@@ -20,5 +20,7 @@
   <Project Path="ConsoleApp5/ConsoleApp5.csproj" Id="458d30d2-0039-4ee7-9156-2cc373c12be9" />
   <Project Path="ConsoleApp6/ConsoleApp6.csproj" Id="265638b1-70be-4658-9516-c8d4e490aa7c" />
   <Project Path="ConsoleApp7/ConsoleApp7.csproj" Id="8777b446-6346-46e5-891c-fbb3c040fc0a" />
+  <Project Path="Game1A2B/Game1A2B.csproj" Id="6a5c1d5c-ee4a-4532-b0fc-bfd06828399d" />
+  <Project Path="isSuccessResult/isSuccessResult.csproj" Id="6785f7cf-835a-4c63-9825-8eddc515d51a" />
   <Project Path="WindowsFormsApp1/WindowsFormsApp1.csproj" Id="36520cea-5654-4a4f-a8b8-f7c90a43bc12" />
 </Solution>
