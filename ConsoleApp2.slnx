@@ -26,5 +26,7 @@
   <Project Path="inheritanceAbstract/inheritanceAbstract.csproj" Id="133b4b84-0e05-4f03-9e26-c3484bd24f23" />
   <Project Path="interfacePractice/interfacePractice.csproj" Id="a7adaea3-1737-49a1-9bf2-434460c816fe" />
   <Project Path="isSuccessResult/isSuccessResult.csproj" Id="6785f7cf-835a-4c63-9825-8eddc515d51a" />
+  <Project Path="PracticeInterfaceConsole01/PracticeInterfaceConsole01.csproj" Id="5e014c62-864f-4c29-9878-cefbbf761c24" />
+  <Project Path="PracticeInterfaceWinform01/PracticeInterfaceWinform01.csproj" Id="7b1e6c58-2abb-46f1-83f3-617f5b8ee5b4" />
   <Project Path="WindowsFormsApp1/WindowsFormsApp1.csproj" Id="36520cea-5654-4a4f-a8b8-f7c90a43bc12" />
 </Solution>
