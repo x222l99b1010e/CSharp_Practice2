@@ -90,6 +90,7 @@
 
 		public int CompareTo(Member? other)
 		{
+			if (other == null) return 1; // null 通常排在最後面
 			//為何身高能直接CompareTo？因為int實作了IComparable<int>，所以可以直接呼叫CompareTo方法。
 			//return this.Height.CompareTo(other?.Height ?? 0);
 
@@ -112,7 +113,7 @@
 			return $"名字: {Name,8}, 身高: {Height,4}, 生日: {DateOfBirth:yyyy/MM/dd}";
 		}
 
-		class SortByHeight : IComparer<Member>
+		private class SortByHeight : IComparer<Member>
 		{
 			// 實作 IComparer 介面的方法 (不需要動到 Member 類別本身)
 			public int Compare(Member? x, Member? y)
@@ -120,7 +121,7 @@
 				return x.Height.CompareTo(y.Height);
 			}
 		}
-		class SortByHeightDESC : IComparer<Member>
+		private class SortByHeightDESC : IComparer<Member>
 		{
 			// 實作 IComparer 介面的方法 (不需要動到 Member 類別本身)
 			public int Compare(Member? x, Member? y)
