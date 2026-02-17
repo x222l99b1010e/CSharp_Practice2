@@ -20,6 +20,7 @@
   <Project Path="ConsoleApp5/ConsoleApp5.csproj" Id="458d30d2-0039-4ee7-9156-2cc373c12be9" />
   <Project Path="ConsoleApp6/ConsoleApp6.csproj" Id="265638b1-70be-4658-9516-c8d4e490aa7c" />
   <Project Path="ConsoleApp7/ConsoleApp7.csproj" Id="8777b446-6346-46e5-891c-fbb3c040fc0a" />
+  <Project Path="ConsoleApp8/ConsoleApp8.csproj" Id="b0b429f3-4c48-4845-a970-3b1659e2d79c" />
   <Project Path="Game1A2B/Game1A2B.csproj" Id="6a5c1d5c-ee4a-4532-b0fc-bfd06828399d" />
   <Project Path="inheritance/inheritance.csproj" Id="a7be15a6-a798-4c42-9b16-3e9a53f6a4ad" />
   <Project Path="inheritanceAbstract/inheritanceAbstract.csproj" Id="133b4b84-0e05-4f03-9e26-c3484bd24f23" />
