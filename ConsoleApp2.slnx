@@ -21,6 +21,7 @@
   <Project Path="ConsoleApp6/ConsoleApp6.csproj" Id="265638b1-70be-4658-9516-c8d4e490aa7c" />
   <Project Path="ConsoleApp7/ConsoleApp7.csproj" Id="8777b446-6346-46e5-891c-fbb3c040fc0a" />
   <Project Path="ConsoleApp8/ConsoleApp8.csproj" Id="b0b429f3-4c48-4845-a970-3b1659e2d79c" />
+  <Project Path="ConsoleApp9/ConsoleApp9.csproj" Id="049a2471-25f2-4460-89fe-2c0007760835" />
   <Project Path="Game1A2B/Game1A2B.csproj" Id="6a5c1d5c-ee4a-4532-b0fc-bfd06828399d" />
   <Project Path="inheritance/inheritance.csproj" Id="a7be15a6-a798-4c42-9b16-3e9a53f6a4ad" />
   <Project Path="inheritanceAbstract/inheritanceAbstract.csproj" Id="133b4b84-0e05-4f03-9e26-c3484bd24f23" />
@@ -28,5 +29,7 @@
   <Project Path="isSuccessResult/isSuccessResult.csproj" Id="6785f7cf-835a-4c63-9825-8eddc515d51a" />
   <Project Path="PracticeInterfaceConsole01/PracticeInterfaceConsole01.csproj" Id="5e014c62-864f-4c29-9878-cefbbf761c24" />
   <Project Path="PracticeInterfaceWinform01/PracticeInterfaceWinform01.csproj" Id="7b1e6c58-2abb-46f1-83f3-617f5b8ee5b4" />
+  <Project Path="WA.ProjectA.SecurityInterface/WA.ProjectA.SecurityInterface.csproj" Id="e1a101e2-941c-487e-a2d4-f8bc098b410d" />
+  <Project Path="WA.ProjectA.SQL/WA.ProjectA.SQL.csproj" Id="335293c4-6709-43d5-8e09-d91d03be74be" />
   <Project Path="WindowsFormsApp1/WindowsFormsApp1.csproj" Id="36520cea-5654-4a4f-a8b8-f7c90a43bc12" />
 </Solution>
