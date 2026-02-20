@@ -11,6 +11,7 @@
   <Project Path="11ETL_Practice2/11ETL_Practice2.csproj" Id="223172c8-8472-41db-ac99-6393a2d7df40" />
   <Project Path="11GroupingAndStatistics/11GroupingAndStatistics.csproj" />
   <Project Path="11TimeRange/11TimeRange.csproj" Id="f8f99a70-891a-4d5f-971c-fd9a2cb63596" />
+  <Project Path="a.DesignPattern.SimpleFactory.Example/a.DesignPattern.SimpleFactory.Example.csproj" Id="92ffd87f-6253-490d-b3cd-4c47a8362c3b" />
   <Project Path="AK.Global.Utilities/AK.Global.Utilities.csproj" />
   <Project Path="Atest.Global.Utilities/Atest.Global.Utilities.csproj" />
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="3f8ed64d-38a2-4ca2-8dce-37be9f1011da" />
@@ -22,6 +23,7 @@
   <Project Path="ConsoleApp7/ConsoleApp7.csproj" Id="8777b446-6346-46e5-891c-fbb3c040fc0a" />
   <Project Path="ConsoleApp8/ConsoleApp8.csproj" Id="b0b429f3-4c48-4845-a970-3b1659e2d79c" />
   <Project Path="ConsoleApp9/ConsoleApp9.csproj" Id="049a2471-25f2-4460-89fe-2c0007760835" />
+  <Project Path="FUEN43.ProjectA.Security/FUEN43.ProjectA.Security.csproj" Id="6ebb8fba-0445-4f45-8485-c6a6a1ef5c2d" />
   <Project Path="Game1A2B/Game1A2B.csproj" Id="6a5c1d5c-ee4a-4532-b0fc-bfd06828399d" />
   <Project Path="inheritance/inheritance.csproj" Id="a7be15a6-a798-4c42-9b16-3e9a53f6a4ad" />
   <Project Path="inheritanceAbstract/inheritanceAbstract.csproj" Id="133b4b84-0e05-4f03-9e26-c3484bd24f23" />

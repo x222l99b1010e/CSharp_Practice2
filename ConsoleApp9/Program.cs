@@ -8,6 +8,8 @@ namespace ConsoleApp9
 		{
 			string account = "allen";
 			string password = "123";
+			account = "simon";
+			password = "123456";
 			
 			Login(account, password);
 		}
@@ -27,10 +29,12 @@ namespace ConsoleApp9
 
 		private static IAuth GetAuthProvider()
 		{
-			//執行debug時，會在bin\Debug\net10.0底下找dll
+			//執行時，會在bin\Debug\net10.0底下找dll
 			//BaseDirectory會回傳目前執行檔所在的資料夾路徑(是找xxxx.exe所在資料夾再找WA.ProjectA.SQL.dll的檔案)
 			string dllName = Path.Combine(AppContext.BaseDirectory, "WA.ProjectA.SQL.dll");
 			string className = "WA.ProjectA.SQL.MemberService";
+			dllName = Path.Combine(AppContext.BaseDirectory, "FUEN43.ProjectA.Security.dll");
+			className = "FUEN43.ProjectA.Security.AdvanceMemberService";
 
 			var assembly = System.Reflection.Assembly.LoadFrom(dllName);
 			object obj = assembly.CreateInstance(className);
