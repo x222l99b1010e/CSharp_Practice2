@@ -5,6 +5,8 @@
 //這樣才會往外尋找AK.Global.Utilities的命名空間
 
 //否則只會停止在這個類別裡面
+//using AK.Global.Utilities;
+
 namespace Atest.Global.Utilities
 {
 	internal class Program

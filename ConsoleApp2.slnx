@@ -1,16 +1,16 @@
 <Solution>
-  <Project Path="00.000CalculateExpression/00.000CalculateExpression.csproj" />
-  <Project Path="00.000CoinChange/00.000CoinChange.csproj" />
-  <Project Path="00.000GeneQuery/00.000GeneQuery.csproj" />
-  <Project Path="00.000IsBalanced/00.000IsBalanced.csproj" />
-  <Project Path="00.000PrimeFactorization/00.000PrimeFactorization.csproj" />
-  <Project Path="00.000PrintHollowTriangle/00.000PrintHollowTriangle.csproj" />
-  <Project Path="00.000SearchDictionary/00.000SearchDictionary.csproj" />
-  <Project Path="11CalculatingScore/11CalculatingScore.csproj" />
-  <Project Path="11ETL_Practice/11ETL_Practice.csproj" />
-  <Project Path="11ETL_Practice2/11ETL_Practice2.csproj" Id="223172c8-8472-41db-ac99-6393a2d7df40" />
-  <Project Path="11GroupingAndStatistics/11GroupingAndStatistics.csproj" />
-  <Project Path="11TimeRange/11TimeRange.csproj" Id="f8f99a70-891a-4d5f-971c-fd9a2cb63596" />
+  <Project Path="a.00.000CalculateExpression/a.00.000CalculateExpression.csproj" />
+  <Project Path="a.00.000CoinChange/a.00.000CoinChange.csproj" />
+  <Project Path="a.00.000GeneQuery/a.00.000GeneQuery.csproj" />
+  <Project Path="a.00.000IsBalanced/a.00.000IsBalanced.csproj" />
+  <Project Path="a.00.000PrimeFactorization/a.00.000PrimeFactorization.csproj" />
+  <Project Path="a.00.000PrintHollowTriangle/a.00.000PrintHollowTriangle.csproj" />
+  <Project Path="a.00.000SearchDictionary/a.00.000SearchDictionary.csproj" />
+  <Project Path="a.11CalculatingScore/a.11CalculatingScore.csproj" />
+  <Project Path="a.11ETL_Practice/a.11ETL_Practice.csproj" />
+  <Project Path="a.11ETL_Practice2/a.11ETL_Practice2.csproj" />
+  <Project Path="a.11GroupingAndStatistics/a.11GroupingAndStatistics.csproj" />
+  <Project Path="a.11TimeRange/a.11TimeRange.csproj" />
   <Project Path="a.DesignPattern.SimpleFactory.Example/a.DesignPattern.SimpleFactory.Example.csproj" Id="92ffd87f-6253-490d-b3cd-4c47a8362c3b" />
   <Project Path="a.OOP.RawCode/a.OOP.RawCode.csproj" Id="80592928-72e1-4aa4-8e99-f0fd1bbabddb" />
   <Project Path="a.OOP.Refactor.TestProject1/a.OOP.Refactor.TestProject1.csproj" Id="8061af59-6b41-4736-b7ff-9e126fa240b2" />
