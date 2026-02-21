@@ -1,4 +1,4 @@
-﻿namespace _00._000GeneQuery
+﻿namespace a._00._000GeneQuery
 {
 	internal class Program
 	{

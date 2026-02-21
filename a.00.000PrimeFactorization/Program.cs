@@ -1,4 +1,4 @@
-﻿namespace _00._000PrimeFactorization
+﻿namespace a._00._000PrimeFactorization
 {
 	internal class Program
 	{

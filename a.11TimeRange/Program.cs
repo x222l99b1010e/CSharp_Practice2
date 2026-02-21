@@ -1,4 +1,4 @@
-﻿namespace _11TimeRange
+﻿namespace a._11TimeRange
 {
 	internal class Program
 	{

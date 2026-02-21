@@ -1,4 +1,4 @@
-﻿namespace _11ETL_Practice2
+﻿namespace a._11ETL_Practice2
 {
 	internal class Program
 	{

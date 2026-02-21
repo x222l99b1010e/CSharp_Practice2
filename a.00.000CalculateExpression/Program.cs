@@ -1,4 +1,4 @@
-﻿namespace _00._000CalculateExpression
+﻿namespace a._00._000CalculateExpression
 {
 	internal class Program
 	{

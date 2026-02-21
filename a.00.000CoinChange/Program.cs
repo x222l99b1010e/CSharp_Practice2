@@ -1,4 +1,4 @@
-﻿namespace _00._000CoinChange
+﻿namespace a._00._000CoinChange
 {
 	internal class Program
 	{

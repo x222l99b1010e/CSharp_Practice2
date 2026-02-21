@@ -1,4 +1,4 @@
-﻿namespace _00._000SearchDictionary
+﻿namespace a._00._000SearchDictionary
 {
 	internal class Program
 	{

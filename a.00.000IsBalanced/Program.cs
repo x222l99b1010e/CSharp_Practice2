@@ -1,4 +1,4 @@
-﻿namespace _00._000IsBalanced
+﻿namespace a._00._000IsBalanced
 {
 	internal class Program
 	{

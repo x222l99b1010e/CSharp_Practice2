@@ -1,4 +1,4 @@
-﻿namespace _11GroupingAndStatistics
+﻿namespace a._11GroupingAndStatistics
 {
 	internal class Program
 	{

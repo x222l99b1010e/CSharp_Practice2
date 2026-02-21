@@ -1,4 +1,4 @@
-﻿namespace _00._000PrintHollowTriangle
+﻿namespace a._00._000PrintHollowTriangle
 {
 	internal class Program
 	{

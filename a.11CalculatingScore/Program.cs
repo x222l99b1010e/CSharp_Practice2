@@ -1,4 +1,4 @@
-﻿namespace _11CalculatingScore
+﻿namespace a._11CalculatingScore
 {
 	internal class Program
 	{
