@@ -12,6 +12,9 @@
   <Project Path="11GroupingAndStatistics/11GroupingAndStatistics.csproj" />
   <Project Path="11TimeRange/11TimeRange.csproj" Id="f8f99a70-891a-4d5f-971c-fd9a2cb63596" />
   <Project Path="a.DesignPattern.SimpleFactory.Example/a.DesignPattern.SimpleFactory.Example.csproj" Id="92ffd87f-6253-490d-b3cd-4c47a8362c3b" />
+  <Project Path="a.OOP.RawCode/a.OOP.RawCode.csproj" Id="80592928-72e1-4aa4-8e99-f0fd1bbabddb" />
+  <Project Path="a.OOP.Refactor.TestProject1/a.OOP.Refactor.TestProject1.csproj" Id="8061af59-6b41-4736-b7ff-9e126fa240b2" />
+  <Project Path="a.OOP.RefactorCode/a.OOP.RefactorCode.csproj" Id="1dc2ec6e-9796-454f-8fb0-8016e6be0c66" />
   <Project Path="AK.Global.Utilities/AK.Global.Utilities.csproj" />
   <Project Path="Atest.Global.Utilities/Atest.Global.Utilities.csproj" />
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="3f8ed64d-38a2-4ca2-8dce-37be9f1011da" />
